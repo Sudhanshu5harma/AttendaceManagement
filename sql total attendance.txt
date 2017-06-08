@@ -1,0 +1,1 @@
+select count(distinct(curdate)) from attendance where rfid='input';
